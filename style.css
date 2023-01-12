@@ -32,17 +32,11 @@ body,html{
   
     }
     span{ 
-        font-size: 18px
+        font-size: 18px;
    
-    ;
 }
    nav{
-     /* align-self:center;
-     display: strech;
-        padding-left: 30%;
-        padding-right: 30%;
-   margin: auto; */
-     
+    
         justify-content: center;
         justify-self: center;
         align-items: center;
@@ -56,7 +50,6 @@ body,html{
     }
     .boton{
      justify-self: center;
-       
         border-radius: 9px;
         display: inline-block; 
         height: fit-content;
