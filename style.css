@@ -1,0 +1,115 @@
+body,html{
+
+    font-family: 'Sofia Sans Semi Condensed', sans-serif;
+}
+
+    header{
+       
+        justify-content: center;
+        height: 35vh;
+        border: 2px rgb(164, 55, 65);
+        background-color: rgb(205, 102, 112);
+        border-radius: 5px;
+        align-items: center;
+     
+    }
+    .logo-container{
+        /* float: center;
+       margin-left:35%;
+       margin-right: 35%; */
+       margin-top: -15vh;
+       justify-content: center;
+       justify-self: center;
+       align-items: center;
+       font-size: 15px;
+       margin-left: 30%;
+       text-align: center;
+       justify-content: center;
+       margin:auto;
+      
+       padding-bottom: 20px;
+   
+  
+    }
+    span{ 
+        font-size: 18px
+   
+    ;
+}
+   nav{
+     /* align-self:center;
+     display: strech;
+        padding-left: 30%;
+        padding-right: 30%;
+   margin: auto; */
+     
+        justify-content: center;
+        justify-self: center;
+        align-items: center;
+        font-size: 15px;
+        margin-left: 30%;
+        text-align: center;
+        justify-content: center;
+        margin:auto;
+       
+     
+    }
+    .boton{
+     justify-self: center;
+       
+        border-radius: 9px;
+        display: inline-block; 
+        height: fit-content;
+        padding: 5px;
+        width: 80px;
+        margin: 10px;
+        border: 3px solid black;
+        background-color: #d69c9c;
+        align-self: flex-end;
+        text-align: center;
+        }
+       main{
+        height: 80vh;
+        background-color:#A43741;
+        margin-top: 15px;
+       
+    
+       }
+       h4{
+        font-family: 'Pacifico', cursive;
+        justify-self: center;
+        align-items: center;
+        font-size: 50px;
+        margin-left: 30%;
+        text-align: center;
+        justify-content: center;
+        margin:auto;
+        padding: 30px;
+       }
+       p,form {     
+        justify-self: center;
+        align-items: center;
+        font-size: 30px;
+        text-align: center;
+        /* margin-left: 20%;
+        margin-right: 20%; */
+        justify-content: center;
+        margin:auto;
+        padding: 10px;
+    
+       }
+#lentes{
+    width: 300px;
+    height: 200px;
+    
+    border-radius:100px;
+    display: flex;
+    justify-content: center;
+    display:block;
+    margin: auto;
+
+   
+
+
+}
+    
